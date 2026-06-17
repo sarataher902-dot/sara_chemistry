@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy-950: #080f21;
+  --navy-900: #0f1f42;
+  --navy-800: #1e3060;
+  --navy-700: #253f7d;
+  --teal-500: #14b8b8;
+  --teal-400: #2dd4d4;
+  --cyan-400: #22d3ee;
+  --accent: #0ea5e9;
+}
+
+/* ── Base ── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply antialiased text-navy-900 bg-white;
+  font-family: var(--font-inter, system-ui, sans-serif);
+}
+
+[dir="rtl"] body {
+  font-family: var(--font-noto-arabic, Tahoma, Arial, sans-serif);
+}
+
+/* ── Selection ── */
+::selection {
+  background: rgba(20, 184, 184, 0.25);
+  color: #0f1f42;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f0f4fa;
+}
+::-webkit-scrollbar-thumb {
+  background: #14b8b8;
+  border-radius: 3px;
+}
+
+/* ── Focus ring ── */
+*:focus-visible {
+  outline: 2px solid #14b8b8;
+  outline-offset: 2px;
+}
+
+/* ── Chemistry molecule decorative bg ── */
+.molecule-bg {
+  background-image: radial-gradient(circle at 1px 1px, rgba(20,184,184,0.08) 1px, transparent 0);
+  background-size: 32px 32px;
+}
+
+/* ── Gradient text utility ── */
+.gradient-text {
+  background: linear-gradient(135deg, #14b8b8 0%, #22d3ee 50%, #0ea5e9 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text-warm {
+  background: linear-gradient(135deg, #0f1f42 0%, #253f7d 50%, #14b8b8 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* ── Glass card ── */
+.glass-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+/* ── Navy glass card ── */
+.glass-navy {
+  background: rgba(15, 31, 66, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ── Reduced motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ── Prose overrides (requires @tailwindcss/typography) ── */
+.prose-chemistry {
+  max-width: none;
+  font-size: 1.125rem;
+  line-height: 1.75;
+  color: #253f7d;
+}
+.prose-chemistry p { margin-bottom: 1.25em; }
+.prose-chemistry h2 { font-size: 1.5rem; font-weight: 800; color: #0f1f42; margin: 1.5em 0 0.5em; }
+.prose-chemistry h3 { font-size: 1.25rem; font-weight: 700; color: #0f1f42; margin: 1.25em 0 0.4em; }
+.prose-chemistry a { color: #14b8b8; text-decoration: none; }
+.prose-chemistry a:hover { text-decoration: underline; }
+.prose-chemistry blockquote { border-inline-start: 4px solid #14b8b8; padding-inline-start: 1.5rem; margin: 2em 0; color: #1e3060; }
+.prose-chemistry code { background: #f0fdfc; color: #0d9292; padding: 0.2em 0.4em; border-radius: 4px; font-size: 0.875em; }
+
+/* ── Page transitions ── */
+.page-enter {
+  animation: pageEnter 0.4s ease-out forwards;
+}
+
+@keyframes pageEnter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ── Section separator ── */
+.section-sep {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(20,184,184,0.3), transparent);
+}
+
+/* ── Floating orb (hero decorations) ── */
+.orb {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+  opacity: 0.15;
+  pointer-events: none;
+}
+
+.orb-teal {
+  background: radial-gradient(circle, #14b8b8, transparent);
+}
+
+.orb-navy {
+  background: radial-gradient(circle, #253f7d, transparent);
+}
+
+.orb-cyan {
+  background: radial-gradient(circle, #22d3ee, transparent);
+}

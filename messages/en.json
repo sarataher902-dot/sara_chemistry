@@ -1,0 +1,307 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "learn": "Learn Chemistry",
+    "resources": "Resources",
+    "kids": "Kids Science",
+    "blog": "Blog",
+    "services": "Services",
+    "shop": "Shop",
+    "contact": "Contact",
+    "bookSession": "Book a Session",
+    "switchLang": "العربية"
+  },
+  "home": {
+    "hero": {
+      "badge": "IGCSE Chemistry Educator",
+      "headline": "Making Chemistry Clear, Practical, and Accessible",
+      "subheadline": "for Every Learner",
+      "description": "I'm Sara Mohamed — Chemistry educator, science content creator, and your guide to understanding the building blocks of our world. From atomic structure to organic chemistry, I make the complex beautifully simple.",
+      "cta1": "Start Learning",
+      "cta2": "View Resources",
+      "cta3": "Book a Session",
+      "stat1": "500+",
+      "stat1Label": "Students Taught",
+      "stat2": "8+",
+      "stat2Label": "Years Experience",
+      "stat3": "200+",
+      "stat3Label": "Resources Created"
+    },
+    "about": {
+      "badge": "About Sara",
+      "title": "Passionate About Making Chemistry Click",
+      "body": "With over 8 years of experience teaching IGCSE Chemistry, I've developed a teaching method that breaks down complex concepts into intuitive, memorable frameworks. My students consistently achieve top grades — but more importantly, they develop a genuine love for science.",
+      "cta": "Read My Full Story",
+      "fact1": "IGCSE Chemistry Specialist",
+      "fact2": "Science Content Creator",
+      "fact3": "Curriculum Designer"
+    },
+    "topics": {
+      "badge": "Core Topics",
+      "title": "Chemistry Made Accessible",
+      "subtitle": "Comprehensive coverage of every IGCSE Chemistry topic, explained with clarity and supported by rich visual materials."
+    },
+    "articles": {
+      "badge": "Latest Articles",
+      "title": "From the Chemistry Lab to Daily Life",
+      "subtitle": "Explore chemistry through engaging articles that connect textbook concepts to the world around you.",
+      "readMore": "Read Article",
+      "viewAll": "View All Articles"
+    },
+    "resources": {
+      "badge": "Featured Resources",
+      "title": "Study Smarter, Not Harder",
+      "subtitle": "Curated learning materials designed to accelerate your chemistry understanding and exam performance.",
+      "viewAll": "Browse All Resources",
+      "free": "Free",
+      "premium": "Premium",
+      "download": "Download",
+      "preview": "Preview"
+    },
+    "testimonials": {
+      "badge": "Student Stories",
+      "title": "Results That Speak for Themselves"
+    },
+    "cta": {
+      "title": "Ready to Master Chemistry?",
+      "subtitle": "Join hundreds of students who've transformed their understanding of chemistry with Sara's proven teaching methods.",
+      "primary": "Book a Free Consultation",
+      "secondary": "Explore Resources"
+    },
+    "newsletter": {
+      "badge": "Stay Updated",
+      "title": "Get Weekly Chemistry Insights",
+      "subtitle": "Join 1,200+ learners receiving study tips, new resources, and chemistry breakdowns every week.",
+      "placeholder": "Enter your email address",
+      "cta": "Subscribe Free",
+      "privacy": "No spam. Unsubscribe anytime."
+    }
+  },
+  "about": {
+    "badge": "About Sara Mohamed",
+    "title": "Chemistry Educator, Science Communicator, Lifelong Learner",
+    "subtitle": "My journey from curious student to trusted educator — and why I believe every learner can excel in chemistry.",
+    "bio": {
+      "title": "My Story",
+      "p1": "I discovered my love for chemistry at age 16, when my teacher showed me how the periodic table was essentially a map of the universe's building blocks. That moment of clarity — when abstract symbols suddenly became the language of reality — became the experience I've spent my career recreating for others.",
+      "p2": "After completing my degree in Chemistry Education and earning my teaching qualifications, I began teaching IGCSE Chemistry and quickly developed a reputation for making difficult concepts genuinely accessible. My approach combines visual learning, real-world connections, and a structured exam technique that gives students both confidence and competence.",
+      "p3": "Today, I work with students across the globe through online tutoring, create educational content for social media and this platform, and develop curriculum resources used by schools and independent learners worldwide."
+    },
+    "philosophy": {
+      "title": "My Teaching Philosophy",
+      "p1": "Chemistry is not a collection of facts to memorize — it's a way of thinking about matter, energy, and transformation. My goal is never just to help students pass exams, though they do. My goal is to give them a framework for understanding how the physical world works.",
+      "principles": [
+        "Clarity before complexity — foundations before details",
+        "Real-world context makes abstract concepts stick",
+        "Exam technique is a skill, and it can be taught",
+        "Every student has a different learning style — teaching adapts"
+      ]
+    },
+    "experience": {
+      "title": "Experience & Qualifications",
+      "items": [
+        {
+          "year": "2016",
+          "title": "BSc Chemistry Education",
+          "org": "Faculty of Education",
+          "desc": "Graduated with honors, specializing in science pedagogy and curriculum design."
+        },
+        {
+          "year": "2016",
+          "title": "IGCSE Chemistry Teacher",
+          "org": "International School",
+          "desc": "Began teaching IGCSE Chemistry, developing core visual curriculum materials."
+        },
+        {
+          "year": "2019",
+          "title": "Science Content Creator",
+          "org": "Digital Platforms",
+          "desc": "Launched educational content across social media, reaching thousands of learners."
+        },
+        {
+          "year": "2021",
+          "title": "Online Tutoring Practice",
+          "org": "Independent",
+          "desc": "Expanded to global online tutoring, serving students from 12+ countries."
+        },
+        {
+          "year": "2023",
+          "title": "Educational Resource Publisher",
+          "org": "Sara Chemistry Platform",
+          "desc": "Launched this platform with comprehensive digital resources and study packs."
+        }
+      ]
+    },
+    "mission": {
+      "title": "My Mission",
+      "body": "To make rigorous chemistry education accessible to every learner, regardless of background or location — through clear teaching, quality resources, and a belief that science belongs to everyone."
+    }
+  },
+  "learn": {
+    "badge": "Learn Chemistry",
+    "title": "Your IGCSE Chemistry Hub",
+    "subtitle": "Comprehensive, exam-focused content covering every topic on the IGCSE Chemistry syllabus.",
+    "search": "Search topics, concepts, or keywords...",
+    "categories": {
+      "all": "All Topics",
+      "atomic": "Atomic Structure",
+      "bonding": "Bonding",
+      "states": "States of Matter",
+      "stoichiometry": "Stoichiometry",
+      "electrochemistry": "Electrochemistry",
+      "energetics": "Energetics",
+      "kinetics": "Kinetics",
+      "equilibrium": "Equilibrium",
+      "acids": "Acids & Bases",
+      "organic": "Organic Chemistry",
+      "metals": "Metals",
+      "atmosphere": "Atmosphere"
+    },
+    "examTips": {
+      "title": "Exam Technique Tips",
+      "subtitle": "Practical strategies for IGCSE Chemistry exams"
+    },
+    "studyGuides": {
+      "title": "Study Guides",
+      "subtitle": "Structured revision plans and learning frameworks"
+    }
+  },
+  "resources": {
+    "badge": "Resources",
+    "title": "Chemistry Learning Materials",
+    "subtitle": "Notes, worksheets, practice questions, and revision packs — everything you need to excel.",
+    "filters": {
+      "all": "All",
+      "free": "Free",
+      "premium": "Premium",
+      "notes": "Notes",
+      "worksheets": "Worksheets",
+      "practice": "Practice Questions",
+      "revision": "Revision Packs"
+    },
+    "locked": "Premium Content",
+    "unlock": "Get Access",
+    "download": "Download Free",
+    "preview": "Preview"
+  },
+  "kids": {
+    "badge": "Kids Science",
+    "title": "Science is Magic — Let's Explore!",
+    "subtitle": "Fun, simple science activities and explanations designed to spark curiosity in young minds.",
+    "activities": "Fun Activities",
+    "worksheets": "Printable Worksheets",
+    "books": "Educational Books",
+    "experiments": "Home Experiments"
+  },
+  "blog": {
+    "badge": "Articles & Insights",
+    "title": "Chemistry in the Real World",
+    "subtitle": "Exploring science through everyday life, education strategies, and fascinating discoveries.",
+    "readMore": "Read More",
+    "categories": {
+      "all": "All Articles",
+      "daily": "Chemistry in Daily Life",
+      "study": "Study Strategies",
+      "concepts": "Concept Explainers",
+      "news": "Science News"
+    },
+    "search": "Search articles..."
+  },
+  "services": {
+    "badge": "Services",
+    "title": "Professional Chemistry Education Services",
+    "subtitle": "Personalized, expert-led services designed to accelerate your chemistry journey.",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "items": {
+      "tutoring": {
+        "title": "1-on-1 Online Tutoring",
+        "desc": "Personalized chemistry sessions tailored to your level, learning style, and goals. Sessions via Zoom with interactive whiteboards and real-time problem solving."
+      },
+      "igcse": {
+        "title": "IGCSE Exam Preparation",
+        "desc": "Intensive exam preparation covering all IGCSE Chemistry topics, past paper practice, and proven exam technique strategies."
+      },
+      "studyPlan": {
+        "title": "Custom Study Plan",
+        "desc": "A personalized, structured study roadmap created specifically for your timeline, strengths, and areas for improvement."
+      },
+      "content": {
+        "title": "Educational Content Writing",
+        "desc": "Professional chemistry content for schools, ed-tech platforms, and educational publishers. Science explainers, worksheets, and curriculum materials."
+      },
+      "worksheets": {
+        "title": "Custom Worksheets",
+        "desc": "Bespoke worksheets and practice question sets designed for specific topics, difficulty levels, or curriculum requirements."
+      },
+      "group": {
+        "title": "Group Study Sessions",
+        "desc": "Small group chemistry sessions for schools or study groups. Collaborative learning with structured guidance."
+      }
+    }
+  },
+  "shop": {
+    "badge": "Shop",
+    "title": "Chemistry Learning Resources",
+    "subtitle": "Premium digital resources to supercharge your chemistry learning.",
+    "addToCart": "Add to Cart",
+    "preview": "Preview",
+    "free": "Free",
+    "comingSoon": "Coming Soon",
+    "categories": {
+      "all": "All Products",
+      "notes": "Study Notes",
+      "worksheets": "Worksheets",
+      "revision": "Revision Packs",
+      "books": "E-Books"
+    }
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Let's Talk Chemistry",
+    "subtitle": "Have a question, want to book a session, or just want to say hello? I'd love to hear from you.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent! I'll get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again or email me directly."
+    },
+    "info": {
+      "email": "sara@sarachemistry.com",
+      "whatsapp": "Chat on WhatsApp",
+      "social": "Follow for daily chemistry content"
+    }
+  },
+  "footer": {
+    "tagline": "Making Chemistry Clear, Practical, and Accessible for Every Learner.",
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "connect": "Connect",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Weekly chemistry insights in your inbox.",
+    "subscribe": "Subscribe",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "download": "Download",
+    "preview": "Preview",
+    "comingSoon": "Coming Soon",
+    "free": "Free",
+    "premium": "Premium",
+    "new": "New",
+    "popular": "Popular",
+    "back": "Back",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "noResults": "No results found"
+  }
+}
