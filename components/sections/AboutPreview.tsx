@@ -30,7 +30,7 @@ export default function AboutPreview() {
                 </div>
                 <div className="text-center px-6">
                   <p className="text-white text-lg font-bold" style={{ fontFamily: "var(--font-space-grotesk)" }}>
-                    Sara Mohamed
+                    Sara Taher
                   </p>
                   <p className="text-teal-400 text-sm mt-1">
                     {isRTL ? "معلمة كيمياء IGCSE" : "IGCSE Chemistry Educator"}
