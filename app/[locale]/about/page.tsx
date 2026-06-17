@@ -58,7 +58,7 @@ export default async function AboutPage({
                         className="text-white text-xl font-bold"
                         style={{ fontFamily: "var(--font-space-grotesk)" }}
                       >
-                        Sara Mohamed
+                        Sara Taher
                       </p>
                       <p className="text-teal-400 text-sm mt-1">
                         {isRTL ? "معلمة كيمياء IGCSE" : "IGCSE Chemistry Educator"}
@@ -69,9 +69,8 @@ export default async function AboutPage({
 
                 {/* Quick facts */}
                 <div className="mt-6 space-y-3">
-                  {[
-                    { icon: GraduationCap, labelEn: "BSc Chemistry Education", labelAr: "بكالوريوس تعليم الكيمياء" },
-                    { icon: Sparkles, labelEn: "8+ Years Teaching Experience", labelAr: "أكثر من 8 سنوات خبرة تدريس" },
+                  {[                    { icon: GraduationCap, labelEn: "BSc in Chemistry", labelAr: "بكالوريوس العلوم قسم الكيمياء" },
+                    { icon: Sparkles, labelEn: "5+ Years Teaching Experience", labelAr: "أكثر من 5 سنوات خبرة تدريس" },
                     { icon: Target, labelEn: "500+ Students Worldwide", labelAr: "أكثر من 500 طالب حول العالم" },
                   ].map((item) => (
                     <div
