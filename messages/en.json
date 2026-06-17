@@ -17,13 +17,13 @@
       "badge": "IGCSE Chemistry Educator",
       "headline": "Making Chemistry Clear, Practical, and Accessible",
       "subheadline": "for Every Learner",
-      "description": "I'm Sara Mohamed — Chemistry educator, science content creator, and your guide to understanding the building blocks of our world. From atomic structure to organic chemistry, I make the complex beautifully simple.",
+      "description": "I'm Sara Taher — Chemistry educator, science content creator, and your guide to understanding the building blocks of our world. From atomic structure to organic chemistry, I make the complex beautifully simple.",
       "cta1": "Start Learning",
       "cta2": "View Resources",
       "cta3": "Book a Session",
       "stat1": "500+",
       "stat1Label": "Students Taught",
-      "stat2": "8+",
+      "stat2": "5+",
       "stat2Label": "Years Experience",
       "stat3": "200+",
       "stat3Label": "Resources Created"
@@ -31,7 +31,7 @@
     "about": {
       "badge": "About Sara",
       "title": "Passionate About Making Chemistry Click",
-      "body": "With over 8 years of experience teaching IGCSE Chemistry, I've developed a teaching method that breaks down complex concepts into intuitive, memorable frameworks. My students consistently achieve top grades — but more importantly, they develop a genuine love for science.",
+      "body": "With over 5 years of experience teaching IGCSE Chemistry, I've developed a teaching method that breaks down complex concepts into intuitive, memorable frameworks. My students consistently achieve top grades — but more importantly, they develop a genuine love for science.",
       "cta": "Read My Full Story",
       "fact1": "IGCSE Chemistry Specialist",
       "fact2": "Science Content Creator",
@@ -79,13 +79,13 @@
     }
   },
   "about": {
-    "badge": "About Sara Mohamed",
+    "badge": "About Sara Taher",
     "title": "Chemistry Educator, Science Communicator, Lifelong Learner",
     "subtitle": "My journey from curious student to trusted educator — and why I believe every learner can excel in chemistry.",
     "bio": {
       "title": "My Story",
-      "p1": "I discovered my love for chemistry at age 16, when my teacher showed me how the periodic table was essentially a map of the universe's building blocks. That moment of clarity — when abstract symbols suddenly became the language of reality — became the experience I've spent my career recreating for others.",
-      "p2": "After completing my degree in Chemistry Education and earning my teaching qualifications, I began teaching IGCSE Chemistry and quickly developed a reputation for making difficult concepts genuinely accessible. My approach combines visual learning, real-world connections, and a structured exam technique that gives students both confidence and competence.",
+      "p1": "My journey is fueled by a deep-seated passion for research and continuous learning. Throughout my academic years, my love for scientific exploration drove me to excel and stand out, shaping the dedicated educator and researcher I am today.",
+      "p2": "After completing my degree in Chemistry and earning my teaching qualifications, I began teaching IGCSE Chemistry and quickly developed a reputation for making difficult concepts genuinely accessible. My approach combines visual learning, real-world connections, and a structured exam technique that gives students both confidence and competence.",
       "p3": "Today, I work with students across the globe through online tutoring, create educational content for social media and this platform, and develop curriculum resources used by schools and independent learners worldwide."
     },
     "philosophy": {
@@ -102,31 +102,31 @@
       "title": "Experience & Qualifications",
       "items": [
         {
-          "year": "2016",
-          "title": "BSc Chemistry Education",
-          "org": "Faculty of Education",
-          "desc": "Graduated with honors, specializing in science pedagogy and curriculum design."
+          "year": "2021",
+          "title": "BSc in Chemistry ",
+          "org": "Faculty of Science",
+          "desc": "Graduated with honors, specializing in Chemistry with a strong foundation in scientific research and pedagogical methods."
         },
         {
-          "year": "2016",
+          "year": "2021",
           "title": "IGCSE Chemistry Teacher",
           "org": "International School",
           "desc": "Began teaching IGCSE Chemistry, developing core visual curriculum materials."
         },
         {
-          "year": "2019",
+          "year": "2025",
           "title": "Science Content Creator",
           "org": "Digital Platforms",
           "desc": "Launched educational content across social media, reaching thousands of learners."
         },
         {
-          "year": "2021",
+          "year": "2025",
           "title": "Online Tutoring Practice",
           "org": "Independent",
           "desc": "Expanded to global online tutoring, serving students from 12+ countries."
         },
         {
-          "year": "2023",
+          "year": "2026",
           "title": "Educational Resource Publisher",
           "org": "Sara Chemistry Platform",
           "desc": "Launched this platform with comprehensive digital resources and study packs."
